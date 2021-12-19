@@ -21,6 +21,7 @@ class Solution
 			if(v[i].second != i){
 				ans++;
 				swap(v[i] , v[v[i].second]);
+				i--;
 			}
 		}
 
