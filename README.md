@@ -1,6 +1,6 @@
 # CodingPractice
 ***
-* Day 1
+### Day 1
 
 Question Name | Related Topic | Question Link | Solution
 --- | --- | --- | ---
@@ -10,3 +10,5 @@ LargestBST | Tree , Binary Search Tree | [Click Here](https://practice.geeksforg
 MinSwap | Array , Logic | [Click Here](https://practice.geeksforgeeks.org/problems/minimum-swaps/1) | [View Solution](./Day1/MinSwap.cpp)
 EcrypyString2 | String , Reverse | [Click Here](https://practice.geeksforgeeks.org/problems/encrypt-the-string-21117/1#) | [View Solution](./Day1/EcrypyString2.cpp)
 CheckIfSubtree | Tree , BST | [Click Here](https://practice.geeksforgeeks.org/problems/check-if-subtree/1) | [View Solution](./Day1/CheckIfSubtree.cpp)
+
+***
